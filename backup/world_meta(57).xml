@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldMetaData xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="7c8d2f1d-26a3-4384-a2e0-11fcde50cf75">
+  <Game>Assembly-CSharp</Game>
+  <GameVersion>0.2.5499.24517</GameVersion>
+  <DateTime>133967660561917485</DateTime>
+  <DaysPast>14</DaysPast>
+  <WorldName>Mars</WorldName>
+  <IsOnAwayMission>false</IsOnAwayMission>
+  <WorldTravelCount>0</WorldTravelCount>
+  <WorldFileName>stream Mars</WorldFileName>
+  <WorkShopFileHandle>0</WorkShopFileHandle>
+  <NumberOfRooms>3</NumberOfRooms>
+  <NumberOfPipeNetworks>4</NumberOfPipeNetworks>
+  <NumberOfCableNetworks>3</NumberOfCableNetworks>
+  <NumberOfThings>491</NumberOfThings>
+  <NumberOfAtmospheres>76</NumberOfAtmospheres>
+  <NumberOfAsteriods>0</NumberOfAsteriods>
+</WorldMetaData>
